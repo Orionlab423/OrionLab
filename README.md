@@ -17,9 +17,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
 
-### Github Languages
-![OtterLab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtterLab&theme=react&show_icons=true&hide_border=true&layout=compact)
-
 ### Let's Connect
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
